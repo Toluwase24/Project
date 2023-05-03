@@ -6,7 +6,7 @@ html, body{
     width: 100vw;
 }
 .banner{
-    background: url(./house.jpg);
+    background: url(./farm.jpg);
     height: 100vh;
     background-position: center;
     background-repeat: no-repeat;
